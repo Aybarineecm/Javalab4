@@ -1,0 +1,4 @@
+interface RegisteredExpat
+{
+    String getWorkPermit();
+}
